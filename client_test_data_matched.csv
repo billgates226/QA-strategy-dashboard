@@ -1,0 +1,11 @@
+Client_Name,Industry,Country,Service_Used,Project_Duration_Days,Project_Cost_INR,Revenue_Generated_INR,Is_Renewed,Team_Size,Feedback_Score,Project_Month,Profit_INR,ROI,Project_Size,Feedback_Level,Renewed_Flag,Client_Success_Score
+Client_164,Retail,USA,API Testing,322,1088625,613320,Yes,5,6,Aug,-475305,-0.436610403,Long-term,Low,1,0.305355839
+Client_29,Healthcare,Singapore,Cloud Testing,139,1918864,553728,Yes,5,4,Aug,-1365136,-0.711429262,Mid-term,Low,1,0.135428295
+Client_7,Banking,India,Mobile Testing,143,1110131,2344462,No,12,6,Feb,1234331,1.111878688,Mid-term,Low,0,0.624751475
+Client_190,Retail,UAE,Mobile Testing,361,457704,2913589,No,6,7,Feb,2455885,5.365662087,Long-term,Medium,0,2.356264835
+Client_71,Healthcare,Singapore,Performance Testing,145,560039,429675,Yes,13,8,Sep,-130364,-0.232776646,Mid-term,Medium,1,0.446889342
+Client_63,Banking,USA,Performance Testing,135,1841398,333615,No,8,7,Nov,-1507783,-0.818825153,Mid-term,Medium,0,-0.117530061
+Client_58,Banking,USA,Test Automation,167,961440,694312,No,3,4,Apr,-267128,-0.277841571,Mid-term,Low,0,0.008863372
+Client_36,Healthcare,India,DevOps QA,363,1360050,899265,Yes,20,7,Dec,-460785,-0.338800044,Long-term,Medium,1,0.374479982
+Client_189,Retail,India,Security Testing,239,399289,281171,Yes,13,4,Aug,-118118,-0.295820822,Long-term,Low,1,0.301671671
+Client_27,EdTech,UAE,Mobile Testing,292,1766430,997580,No,4,7,Mar,-768850,-0.435256421,Long-term,Medium,0,0.035897432
