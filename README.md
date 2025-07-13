@@ -55,14 +55,4 @@ This project helps QA companies:
 - Visualize where they grow best
 - Plan smarter expansion strategies
 
-## 🎥 Demo Video
 
-https://github.com/your-username/project-name/blob/main/demo/streamlit_demo.mp4  
-
-
-==================================================
-📬 Contact
-==================================================
-Billgates D  
-Data Analyst | AI & DS  
-https://qualitykiosk.com
